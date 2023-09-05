@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I go by Craig 🤓  
 
 <!--
 **craigtrupp/craigtrupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a data enthusiast currently looking to transition from a predominantly consulting role to a Data Engineer/Analyst. With a background spanning from web development 🕸️ to film production 🎥, I've had an unique opportunity to get first hand experience in diverging interests. Most recently, I was working in technical consulting and documentation with a slight devops hat as well in triaging API and application related issues for customers using our risk management software products.
+
+<br>
+
+![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigtrupp&show_icons=true&theme=transparent)
