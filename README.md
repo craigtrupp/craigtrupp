@@ -24,7 +24,7 @@ I'm a data enthusiast currently looking to transition from a predominantly consu
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigtrupp)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigtrupp)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- ![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigtrupp&show_icons=true&theme=transparent) -->
